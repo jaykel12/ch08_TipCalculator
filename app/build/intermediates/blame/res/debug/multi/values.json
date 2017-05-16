@@ -1,0 +1,366 @@
+[
+    {
+        "outputFile": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 48,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 48,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 128,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 51,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 32,
+                    "endOffset": 582
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 587,
+                    "endColumn": 57,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 38,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 38,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 44,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 50,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 819,
+                    "endColumn": 42,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 42,
+                        "endOffset": 1640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 35,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1645,
+                        "endColumn": 36,
+                        "endOffset": 1677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endColumn": 111,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 71,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 90,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 52,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 44,
+                    "endOffset": 1266
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1271,
+                    "endColumn": 48,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 43,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 53,
+                    "endOffset": 1413
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1418,
+                    "endColumn": 54,
+                    "endOffset": 1468
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1473,
+                    "endColumn": 60,
+                    "endOffset": 1529
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1534,
+                    "endColumn": 72,
+                    "endOffset": 1602
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1607,
+                    "endColumn": 46,
+                    "endOffset": 1649
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1654,
+                    "endColumn": 52,
+                    "endOffset": 1702
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1707,
+                    "endColumn": 57,
+                    "endOffset": 1760
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1765,
+                    "endColumn": 61,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "C:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

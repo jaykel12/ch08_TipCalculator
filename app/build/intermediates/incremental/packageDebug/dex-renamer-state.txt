@@ -1,0 +1,7 @@
+#Tue May 16 12:28:02 PDT 2017
+base.0=C\:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_52809e74aaf871a69e1d0f378c0458d2af6b2be9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d6c4435c163e156aff11dcbcc7469138cda8cbe2\\classes.dex
+base.1=C\:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d6c4435c163e156aff11dcbcc7469138cda8cbe2
+file.0=C\:\\Users\\jayke\\Documents\\android\\murach\\android\\book_apps\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_52809e74aaf871a69e1d0f378c0458d2af6b2be9\\classes.dex
